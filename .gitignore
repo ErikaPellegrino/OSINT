@@ -1,0 +1,19 @@
+# Python & Ambiente Virtuale
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Configurazione e Chiavi API
+.env
+*.env
+config.json
+
+# File di sistema e dati scaricati
+*.log
+*.csv
+*.json
+*.sqlite3
+.DS_Store
+Thumbs.db
