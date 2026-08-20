@@ -32,7 +32,7 @@
 
 ## 🔍 Initial Evidence & Input Data
 - **Source Material:** [Sofia Santos OSINT Exercise #006 - Gralhix](https://gralhix.com/list-of-osint-exercises/osint-exercise-006/)
-- **Target Image:** [Full visual analysis & side-by-side comparison available on Substack](https://yourusername.substack.com/p/your-post-title)
+- **Target Image:** [Full visual analysis & side-by-side comparison available on Substack](https://erika124440.substack.com/p/geoint-case-study-debunking-misinformation?r=8wzskn&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 - **Archived Evidence:** N/A (Original tweet unavailable; image documentation included in Substack report)
 - **Target Image Description:** Photo depicting a burning vehicle surrounded by heavy smoke and debris in front of a damaged concrete structure.
 - **Metadata (EXIF) Analysis:**
@@ -87,4 +87,4 @@ False Claim Date: January 19, 2023 (TTP Attack, Khyber, Pakistan)
 
 📖 Full Visual Walkthrough & Article:
 
-Read the complete breakdown with detailed side-by-side image comparison on my Substack Article.
+Read the complete breakdown with detailed side-by-side image comparison on my Substack Article: https://erika124440.substack.com/p/geoint-case-study-debunking-misinformation?r=8wzskn&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
