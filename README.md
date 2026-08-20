@@ -10,7 +10,7 @@ A collection of Open Source Intelligence (OSINT) scripts, automations, and exerc
 
 |----|----------------|-----------|-------------|
 
-| 01 | GRALHIX #06 | GEOINT | Fact-checking & Geolocation |
+| GEO-01 | GRALHIX #06 | GEOINT | Fact-checking & Geolocation |
 
 ---
 
