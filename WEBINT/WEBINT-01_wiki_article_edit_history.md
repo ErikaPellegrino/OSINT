@@ -43,6 +43,8 @@ OSINT Analysis of a Wikipedia Article's Edit History: Identification of Suspicio
 
 ---
 
+**Note on search queries: this investigation was conducted in Italian, the language of the target Wikipedia article and of the analyst. All dorks below are shown in their original Italian form, followed by an English translation for readability. The original form is what was actually run against the search engines and is provided for reproducibility.**
+
 ## 🧩 Investigation Steps
 
 ### A. Edit History / Timeline Analysis

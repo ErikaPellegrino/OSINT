@@ -13,7 +13,7 @@ Individuazione di pattern di editing sospetti e verifica delle fonti.
 - **Categoria:** WEBINT
 - **Sottocategoria / Focus:** Analisi Cronologia Wiki / Verifica Fonti
 - **Livello di Confidenza:** Alto
-- **SUBSTACK**: https://substack.com/@erika124440/note/p-212973860?r=8wzskn&utm_source=notes-share-action&utm_medium=web
+- **SUBSTACK**: https://erika124440.substack.com/p/analisi-della-cronologia-di-una-voce?r=8wzskn
 
 ---
 
@@ -131,13 +131,13 @@ Individuazione di pattern di editing sospetti e verifica delle fonti.
 
   *(Gli hash mostrati sono valori indicativi e illustrativi, non i valori reali dell'indagine originale.)*
 
-  *Tabella Cronologia Modifiche — Blocco 13–17 (dati fittizi)::*
+  *Tabella Cronologia Modifiche — Blocco 13–17 (dati fittizi):*
 
-  | Row | Timestamp (UTC) | Editor | Registrato | Δ Bytes | Tag / Comment | Flagged/segnalato | Notes |
+  | Row | Timestamp (UTC) | Editor | Registered | Δ Bytes | Tag / Comment | Flagged | Notes | 
   |---|---|---|---|---|---|---|---|
-  | 13 | 2024-08-23 10:15 | IP (masked) | No | +450 | Aggiunta sezione "Acquisizioni" | SI | Aggiunti dati sulle acquisizioni senza fonti |
+  | 13 | 2024-08-23 10:15 | IP (masked) | NO | +450 | Aggiunta sezione "Acquisizioni" | SI | Aggiunti dati sulle acquisizioni senza fonti |
   | 14 | 2024-08-23 10:22 | IP (masked, same) | No | +120 | Formattazione minore | SI | Modifica successiva alla sezione acquisizioni|
-  | 15 | 2024-09-15 11:05 | User_Editor1 | Yes | -570 | Annullate modifiche: fonti mancanti | NO | Annullate righe 13–14 per mancanza di verificabilità |
+  | 15 | 2024-09-15 11:05 | User_Editor1 | SI | -570 | Annullate modifiche: fonti mancanti | NO | Annullate righe 13–14 per mancanza di verificabilità |
   | 16 | 2024-09-27 08:24 | IP (different) | No | +285 | Accusa di frode  | SI | Nessuna citazione, tono non enciclopedico |
   | 17 | 2024-09-27 14:54 | IP (different) | No | -285 | "Rimosse informazioni non verificate" | NO | Rimozione legittima |
 
