@@ -1,10 +1,12 @@
 
 # 🌐 Report di Indagine WEBINT
 
-> Template guida generico. Cancellare le sezioni/voci non pertinenti al caso specifico, non lasciarle vuote nel report finale.
+Analisi della cronologia di una voce Wikipedia: Progetto Veidt Enterprises
+
+Individuazione di pattern di editing sospetti e verifica delle fonti.
 
 ## 📋 Panoramica del Caso (Case Overview)
-- **ID Caso:** WEBINT-01 — wiki_article_edit_history (Project Veidt Enterprises)
+- **ID Caso:** WEBINT-01 — analisi_wiki_veidt_enterprises 
 - **Analista:** Erika Pellegrino
 - **Data Analisi:** Agosto 2026
 - **Classificazione:** TLP:CLEAR
