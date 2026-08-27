@@ -11,6 +11,7 @@
 - **Category:** WEBINT
 - **Sub-category / Focus:** [Footprinting / Dorking / Wiki History Analysis / Document Metadata / Source Verification / Brand Monitoring / Due Diligence / Threat Intel]
 - **Confidence Level:** [High / Medium / Low]
+- **SUBSTACK:** [link]
 
 ---
 

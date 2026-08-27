@@ -53,11 +53,11 @@ OSINT Analysis of a Wikipedia Article's Edit History: Identification of Suspicio
 - **Reference Table:** Full edit history extracted via the `wiki_history_fetch` Python script (MediaWiki API); see Appendix for an excerpt of rows 13–17
 
 ### B. Contributor / Editor Profiling
-- **Account Age & Activity:** Not systematically profiled beyond the flagged rows — out of scope for the routine (non-flagged) 90%+ of edits
+- **Account Age & Activity:** Not systematically profiled beyond the flagged rows 
 - **Single-purpose Accounts (SPA):** None identified among flagged rows
 - **Possible Sockpuppets:** None found. The masked-IP edits reviewed (e.g., three consecutive same-day edits from one masked IP) were confirmed via diff review to be ordinary multi-step editing by a single contributor, not coordinated sockpuppeting
 - **Anonymous IP Analysis:** Rows 13–14 (masked IP) and rows 16–17 (two different anonymous IPs) were reviewed at the content level; no network-level or geolocation attribution was performed (see Scope Boundaries)
-- **External Cross-reference:** Not applicable — no usernames warranted external cross-referencing (e.g., LinkedIn, dorking on editor names)
+- **External Cross-reference:** Not applicable — no usernames warranted external cross-referencing 
 
 ### C. Source & Claim Verification
 - **Claims Checked:**
@@ -85,7 +85,7 @@ OSINT Analysis of a Wikipedia Article's Edit History: Identification of Suspicio
   ```
 - **Archived Versions:** Wayback Machine checked for the specific eveningfuture.com URL — no snapshot found; main article baseline separately archived on Wayback Machine (see Evidence Integrity)
 - **Verification Outcome per Claim:**
-  - *300 Million Downloads (Row 18):* Confirmed. Source exists as a genuine editorial column under the Acme Group; the specific 2020 URL is broken due to site restructuring ("link rot"), not fabrication
+  - *300 Million Downloads (Row 18):* Confirmed. Source exists as a genuine editorial column under the Acme Group; the specific 2020 URL is broken due to site restructuring, not fabrication
   - *Acquisitions (Rows 13–15):* Unverifiable / Removed. Content was factually plausible but removed per policy due to lack of inline citations — no evidence of manipulation
   - *Fraud Allegations (Rows 16–17):* Unsubstantiated. No public records or complaints matching Veidt Enterprises were found; the content was removed by the community as non-encyclopedic and unverified. Absence of external corroboration supports, but does not conclusively prove, that the allegation was baseless
 
@@ -144,4 +144,4 @@ OSINT Analysis of a Wikipedia Article's Edit History: Identification of Suspicio
   | 16 | 2024-09-27 08:24 | IP (different) | No | +285 | Fraud allegation | Yes | No citation, non-encyclopedic tone |
   | 17 | 2024-09-27 14:54 | IP (different) | No | -285 | "Removed unverified information" | No | Legitimate removal |
 
-- **Tool Versions:** SingleFile and GoFullPage (Firefox extensions, versions as installed at time of analysis); Python 3 with the `requests` library for `wiki_history_fetch`; Kali Linux default toolset (`sha256sum`, `stat`, `nano`)
+- **Tool Versions:** SingleFile and GoFullPage (Firefox extensions, versions as installed at time of analysis); Python 3 with the `requests` library for `wiki_history_fetch`; Kali Linux default toolset (`sha256sum, stat, nano`)
