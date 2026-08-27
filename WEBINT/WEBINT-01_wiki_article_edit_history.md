@@ -3,7 +3,7 @@
 OSINT Analysis of a Wikipedia Article's Edit History: Identification of Suspicious Editing Patterns and Source Verification
 
 ## 📋 Case Overview
-- **Case ID:** WEBINT-01 — wiki_article_edit_history
+- **Case ID:** WEBINT-01 — wiki_article_edit_history (Project Veidt Enterprises)
 - **Analyst:** Erika Pellegrino
 - **Date of Analysis:** 2026-08
 - **Classification:** TLP:CLEAR
