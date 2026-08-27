@@ -2,7 +2,7 @@
 # 📍 GEOINT / OSINT Investigation Report
 
 ## 📋 Case Overview
-- **Case ID:** OSINT-2023-006 (Gralhix - Sofia Santos Challenge)
+- **Case ID:** GEOINT-01 OSINT-2023-006 (Gralhix - Sofia Santos Challenge)
 - **Analyst:** Erika Pellegrino
 - **Date of Analysis:** 2026-08-19
 - **Classification:** TLP:CLEAR
