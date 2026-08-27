@@ -10,7 +10,7 @@ OSINT Analysis of a Wikipedia Article's Edit History: Identification of Suspicio
 - **Category:** WEBINT
 - **Sub-category / Focus:** Wiki History Analysis / Source Verification
 - **Confidence Level:** High
-- **SUBSTACK:** Full article available at [link]
+- **SUBSTACK:** Full article available at https://erika124440.substack.com/p/analisi-della-cronologia-di-una-voce?r=8wzskn
 ---
 
 ## 📌 Bottom Line Up Front (BLUF)
