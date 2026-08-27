@@ -11,6 +11,7 @@ A collection of Open Source Intelligence (OSINT) scripts, automations, and exerc
 |----|----------------|-----------|-------------|
 
 | GEOINT-01 | GRALHIX #06 | GEOINT | Fact-checking & Geolocation |
+
 | WEBINT-01 | WIKI_ARTICLE_EDIT_HISTORY | WEBINT | Analysis of a Wikipedia Article's Edit History |
 ---
 
