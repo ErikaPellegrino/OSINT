@@ -6,10 +6,10 @@ A collection of Open Source Intelligence (OSINT) scripts, automations, and exerc
 
 ## 🗂️ Table of Contents
 
-| #  | Title | Category | Description |
-|----|----------------|-----------|-------------|
-| GEOINT-01 | GRALHIX #06 | GEOINT | Fact-checking & Geolocation |
-| WEBINT-01 | WIKI_ARTICLE_EDIT_HISTORY | WEBINT | Analysis of a Wikipedia Article's Edit History |
+| #  | Title | Category | Description | Language
+|----|----------------|-----------|-------------|--------|
+| GEOINT-01 | GRALHIX #06 | GEOINT | Fact-checking & Geolocation | ENG |
+| WEBINT-01 | WIKI_ARTICLE_EDIT_HISTORY | WEBINT | Analysis of a Wikipedia Article's Edit History | ITA/ENG |
 ---
 
 ## 🛡️ Operational Security (OPSEC)
