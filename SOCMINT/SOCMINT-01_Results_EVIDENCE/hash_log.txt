@@ -1,0 +1,23 @@
+
+NOTA: Gli hash sopra riportati si riferiscono ai file originali acquisiti durante l'indagine. Le immagini di Instagram e Telegram pubblicate in questa cartella sono versioni oscurate (redatte) per tutela di terzi; gli originali non oscurati sono conservati privatamente e non pubblicati.File oscurati in questa cartella: Instagram_falso_positivo_sakurasnowangelaiko_.png,
+Telegram_preview_SakuraSnowAngelAiko.png. Tutti gli altri hash corrispondono esattamente ai file
+pubblicati.
+
+
+NOTE: The hashes above refer to the original files acquired during the investigation. The Instagram and Telegram images published in this folder are darkened (redacted) versions for the protection of third parties; the unobscured originals are kept privately and not published.Redacted files in this folder: Instagram_falso_positivo_sakurasnowangelaiko_.png,
+Telegram_preview_SakuraSnowAngelAiko.png. All other hashes match exactly the published files.
+
+
+
+
+
+
+
+bfb300498f5462d64fb551fba92d5bbe8ebe955ac599804d2bf114c3c8109d1f  /home/kali/osint-exercise/sherlock/evidenze/SakuraSnowAngelAiko_Pagina_principlae_profilo_github.png
+18d86b88a7dd17df6eb93c7598fbe094a28d5cbe4ca2b1fcb6369ab810206474  osint-exercise/sherlock/evidenze/sakurasnowangelaiko_github_ETH_Stratum_wallet.png
+919682b0ca9210ea22fbaa9d8eda671061bab354fa7934eb1da929e583cea20c  osint-exercise/sherlock/evidenze/Instagram_falso_positivo_sakurasnowangelaiko_.png
+11e0f6e0825fe1c47cc92281e2088a0673d71d73f915bb660e6dc72e1b2b1a56  osint-exercise/sherlock/evidenze/Youtube_@SakuraSnowAngelAiko_404_not_found.png
+f0bb5cd0cba4ce564ced47f34104e312ec329cb78e2ae58d473241a3a8082c64  osint-exercise/sherlock/evidenze/tiktok_blocco_account_SakuraSnowAngelAiko.png
+39d902460248ecef699c3ae76c648f2228058e40ea99b2f7bde6093bca13552d  osint-exercise/sherlock/evidenze/Telegram_preview_SakuraSnowAngelAiko.png
+18d66b208f0a9d989593693c12beb573fee6e3460e40cfed2d83492458c5c452  osint-exercise/sherlock/evidenze/telegram_SakuraSnowAngelAiko.png
+81569370960de10f9723540cc5882be7181352706d4939375a356c57c7663eb5  osint-exercise/sherlock/evidenze/Account_X_sakuraloveraiko_ex_THM.png

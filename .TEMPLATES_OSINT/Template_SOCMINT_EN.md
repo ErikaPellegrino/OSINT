@@ -11,6 +11,7 @@
 - **Category:** SOCMINT
 - **Sub-category / Focus:** [Profile Verification / Network Analysis / Sockpuppet Detection / Sentiment & Narrative Tracking / Impersonation Check]
 - **Confidence Level:** [High / Medium / Low]
+- SUBSTACK: [link]
 
 ---
 
