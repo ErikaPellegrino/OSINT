@@ -8,7 +8,7 @@
 - **Category:** SOCMINT
 - **Sub-category / Focus:** Username Enumeration, Cross-Platform Correlation, Manual Verification
 - **Confidence Level:** Medium-High *(varies by platform — see verdicts by individual account below)*
-- **Substack:** [link]
+- **Substack:** https://erika124440.substack.com/p/username-enumeration-cross-platform
 
 ---
 
