@@ -127,5 +127,5 @@
 ---
 
 ## 📎 Appendice
-- **Tabelle Dati Grezzi:** Log hash completo (`hash_log.txt`), output grezzi degli strumenti (`risultati_grezzi.txt`, `maigret_risultati_grezzi.txt`) e screenshot delle evidenze disponibili in questo repository: [link]
+- **Tabelle Dati Grezzi:** Log hash completo (`hash_log.txt`), output grezzi degli strumenti (`risultati_grezzi.txt`, `maigret_risultati_grezzi.txt`) e screenshot delle evidenze disponibili in questo repository: [https://github.com/ErikaPellegrino/OSINT/tree/main/SOCMINT/SOCMINT-01_Results_EVIDENCE]
 - **Versioni Strumenti:** Sherlock 0.16.0; Maigret 0.6.4;

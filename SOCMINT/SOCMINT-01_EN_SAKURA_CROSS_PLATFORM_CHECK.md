@@ -127,5 +127,5 @@
 ---
 
 ## 📎 Appendix
-- **Raw Data Tables:** Full hash log (`hash_log.txt`), raw tool output (`risultati_grezzi.txt`, `maigret_risultati_grezzi.txt`) and evidence screenshots available in this repository: [link]
+- **Raw Data Tables:** Full hash log (`hash_log.txt`), raw tool output (`risultati_grezzi.txt`, `maigret_risultati_grezzi.txt`) and evidence screenshots available in this repository: [https://github.com/ErikaPellegrino/OSINT/tree/main/SOCMINT/SOCMINT-01_Results_EVIDENCE]
 - **Tool Versions:** Sherlock 0.16.0; Maigret 0.6.4;
