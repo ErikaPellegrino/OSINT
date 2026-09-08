@@ -11,7 +11,7 @@ A collection of Open Source Intelligence (OSINT) scripts, automations, and exerc
 | GEOINT-01 | GRALHIX #06 | GEOINT | Fact-checking & Geolocation | ENG |
 | WEBINT-01 | WIKI_ARTICLE_EDIT_HISTORY | WEBINT | Analysis of a Wikipedia Article's Edit History | ITA/ENG |
 | SOCMINT-01| SAKURA_CROSS_PLATFORM_CHECK | SOCMINT | Username Enumeration, Cross-Platform Correlation e Manual Verification | ITA/ENG
-| THM-01 | SAKURA ROOM | CTF | SOCMINT, BLOCKINT e GEOINT | ITA/ENG
+| THM-01 | SAKURA_ROOM | CTF | SOCMINT, BLOCKINT e GEOINT | ITA/ENG
 ---
 
 ## 🛡️ Operational Security (OPSEC)
