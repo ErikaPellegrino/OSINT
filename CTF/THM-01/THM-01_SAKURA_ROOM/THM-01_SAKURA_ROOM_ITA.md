@@ -17,7 +17,7 @@ Questo non vuole essere l'ennesimo walkthrough della Sakura Room di TryHackMe, u
 > **TARGET:** SakuraSnowAngelAiko by OSINT Dojo
 > **AMBITO DELL'ANALISI:** analisi OSINT dell'identità digitale e delle tracce online lasciate da un attaccante fittizio (SakuraSnowAngelAiko), partendo da un'immagine indizio, con l'obiettivo di identificare il suo username, l'email, il nome reale, il wallet crypto, la rete Wi-Fi domestica e la probabile città di residenza.
 > **METODOLOGIA:** SOCMINT, BLOCKINT, GEOINT — ricerca passiva, nessuna interazione diretta con il target
-> **GitHub:**
+> **SUBSTACK:** https://substack.com/@erika124440
 
 Il primo task è puramente introduttivo: OSINT Dojo dà il benvenuto nella Sakura Room su TryHackMe. Il testo introduttivo spiega che la room è pensata per mettere alla prova un'ampia gamma di tecniche OSINT diverse. Ogni sezione offre indizi utili a raccogliere le informazioni necessarie per rispondere alle domande dei task. Tutte le risposte devono essere ottenute tramite tecniche di ricerca passiva.
 
